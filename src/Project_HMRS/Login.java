@@ -7,10 +7,6 @@ package Project_HMRS;
  */
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Arnob
- */
 public class Login extends javax.swing.JFrame {
 
     /**

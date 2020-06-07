@@ -1,0 +1,18 @@
+101
+3
+Md Rashad Tanjim
+24
+Dhaka
+Student
+0000
+1000
+Dulex
+=====================
+102
+Tanjim
+20
+Dhaka
+Student
+12
+5000
+Nomal
