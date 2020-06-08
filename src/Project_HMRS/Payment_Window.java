@@ -2,8 +2,10 @@
 package Project_HMRS;
 /**
  * Project_CSE215Lab
- * Date: 10.03.20 
+ * Date: 04.06.20 
  * @Name: Md Rashad Tanjim ID: 1620952042
+ * @Name: Abdullah Bin Khurshid ID: 1813050642
+ * @Name: Sumaya Siddique ID: 1912180642
  */
 import javax.swing.JOptionPane;
 

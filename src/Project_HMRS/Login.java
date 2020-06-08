@@ -2,8 +2,10 @@
 package Project_HMRS;
 /**
  * Project_CSE215Lab
- * Date: 10.03.20 
+ * Date: 04.06.20 
  * @Name: Md Rashad Tanjim ID: 1620952042
+ * @Name: Abdullah Bin Khurshid ID: 1813050642
+ * @Name: Sumaya Siddique ID: 1912180642
  */
 import javax.swing.JOptionPane;
 
@@ -240,17 +242,19 @@ public class Login extends javax.swing.JFrame {
                 + "#1620952042\n"
                 + "rashad.tanjim@northsouth.edu\n"
                 + "\n"
-                + "Md. Junait Hasan Shuvo\n"
-                + "#1520624642");
+                + "Abdullah Bin Khurshid\n"
+                + "#1813050642"
+                + "Sumaya Siddique\n"
+                + "#1912180642");
     }//GEN-LAST:event_jMenuItem4ActionPerformed
 
     private void jMenuItem5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem5ActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(null, "\nFaculy: Dr. Rajesh Palit\n"
+        JOptionPane.showMessageDialog(null, "\nFaculty: MAY\n"
                 + "\n"
-                + "Lab Instructor: Farhan Noor\n"
+                + "Lab Instructor: Monamy Islam\n"
                 + "\n"
-                + "CSE2015.1\n"
+                + "CSE2020.13\n"
                 + "Java Programming");
     }//GEN-LAST:event_jMenuItem5ActionPerformed
 
