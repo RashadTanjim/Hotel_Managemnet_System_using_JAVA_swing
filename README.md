@@ -21,8 +21,8 @@ We have built a management system based on java and its swing library.
 •	Manager can calculate the tax, print a receipt
 
 
-### GitHub Link: https://github.com/RashadTanjim/Hotel_Managemnet_System_using_JAVA_swing
-### Blog: https://www.towardsharing.com/Hotel-Managemnet-System-using-JAVA
+##### GitHub Link: https://github.com/RashadTanjim/Hotel_Managemnet_System_using_JAVA_swing
+##### Blog: https://www.towardsharing.com/Hotel-Managemnet-System-using-JAVA
 
 Md Radhad Tanjim @2020
 
